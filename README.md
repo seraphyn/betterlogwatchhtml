@@ -1,2 +1,2 @@
 # betterlogwatchhtml
-Logwatch is ugly. Let's make ich better
+Logwatch is ugly. Let's make it better
